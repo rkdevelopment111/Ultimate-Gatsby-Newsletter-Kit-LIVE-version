@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Newsletter Starter',
     description:
-      'Launch a newsletter website today using this repo built with Gatsby, and Netlify CMS.',
+      'Launch a newsletter website today using this repo built with Gatsby and Netlify CMS.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
